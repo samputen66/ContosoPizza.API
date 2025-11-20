@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContosoPizza.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd94c49c2c88cac7c9d312e09d38eed3d8b5860")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContosoPizza.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContosoPizza.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
